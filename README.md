@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @IntegerOverflow99 - Brandon Lowe
 - 👀 I’m interested in ... All things tech and gaming!
-- 🌱 I’m currently learning ... Typescript, React, Docker, and plenty more.
-- 📫 How to reach me ... brandon.lowe@mohawkcollge.ca
+- 📫 How to reach me ... lowe.brandon@outlook.com
+- 🏢 Full-time Software Developer/IT Tech/IoT Specialist
+- 🌱 Learning sysadmin, dev-ops, and cybersecurity!
 
 <!---
 IntegerOverflow99/IntegerOverflow99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
